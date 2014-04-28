@@ -1,0 +1,29 @@
+﻿@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
+
+body {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-family: courier new;
+}
+
+#timeContainer {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+}
+
+#details {
+    font-size: 10px;
+}

@@ -1,0 +1,13 @@
+<svg width="620" height="300" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_21">
+   <circle fill-opacity="0" id="svg_20" r="31.347162" cy="110.463886" cx="363.867685" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="15" stroke="#ffffff" fill="#000000"/>
+   <rect id="svg_14" height="104" width="121" y="73.5" x="246" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.408" stroke="#ffffff" fill="#ffffff"/>
+   <path id="svg_15" d="m246.117035,177.503128c0,-5.487015 4.444489,-9.931503 9.931519,-9.931503c5.487,0 9.931488,4.444489 9.931488,9.931503c0,5.487015 -4.444489,9.931503 -9.931488,9.931503c-5.48703,0 -9.931519,-4.444489 -9.931519,-9.931503z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.408" stroke="#ffffff" fill="#ffffff"/>
+   <path id="svg_16" d="m347.207947,177.503128c0,-5.487015 4.444489,-9.931503 9.931519,-9.931503c5.487,0 9.931488,4.444489 9.931488,9.931503c0,5.487015 -4.444489,9.931503 -9.931488,9.931503c-5.48703,0 -9.931519,-4.444489 -9.931519,-9.931503z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.408" stroke="#ffffff" fill="#ffffff"/>
+   <line id="svg_17" y2="187.454545" x2="357.456006" y1="187.454545" x1="255.636364" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.408" stroke="#ffffff" fill="none"/>
+   <rect id="svg_18" height="27.818182" width="97.272727" y="157.818182" x="256.545455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3.408" stroke="#ffffff" fill="#ffffff"/>
+  </g>
+ </g>
+</svg>

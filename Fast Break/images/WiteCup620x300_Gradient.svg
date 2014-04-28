@@ -1,0 +1,20 @@
+<svg width="620" height="300" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="321" width="640" y="-17" x="-15" stroke-width="0" stroke="#000000" fill="url(#svg_2)"/>
+  <g id="svg_21">
+   <circle fill="#000000" stroke="#ffffff" stroke-width="15" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="363.86768" cy="110.46389" r="31.34716" id="svg_20" fill-opacity="0"/>
+   <rect fill="#ffffff" stroke="#ffffff" stroke-width="3.408" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="246" y="73.5" width="121" height="104" id="svg_14"/>
+   <path fill="#ffffff" stroke="#ffffff" stroke-width="3.408" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m246.11703,177.50313c0,-5.48701 4.44449,-9.9315 9.93152,-9.9315c5.487,0 9.93149,4.44449 9.93149,9.9315c0,5.48701 -4.44449,9.9315 -9.93149,9.9315c-5.48703,0 -9.93152,-4.44449 -9.93152,-9.9315z" id="svg_15"/>
+   <path fill="#ffffff" stroke="#ffffff" stroke-width="3.408" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m347.20795,177.50313c0,-5.48701 4.44449,-9.9315 9.93152,-9.9315c5.487,0 9.93149,4.44449 9.93149,9.9315c0,5.48701 -4.44449,9.9315 -9.93149,9.9315c-5.48703,0 -9.93152,-4.44449 -9.93152,-9.9315z" id="svg_16"/>
+   <line fill="none" stroke="#ffffff" stroke-width="3.408" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="255.63636" y1="187.45454" x2="357.45601" y2="187.45454" id="svg_17"/>
+   <rect fill="#ffffff" stroke="#ffffff" stroke-width="3.408" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="256.54546" y="157.81818" width="97.27273" height="27.81818" id="svg_18"/>
+  </g>
+ </g>
+ <defs>
+  <linearGradient y2="1" x2="1" y1="0" x1="0" id="svg_2">
+   <stop stop-color="#03ba03" offset="0"/>
+   <stop stop-color="#7f0000" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
